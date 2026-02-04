@@ -1,0 +1,39 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+::: {.paper}
+### Paper Title Here
+with Coauthor Name (University)
+
+Abstract text goes here. Describe the research question, methods, and key findings in a few sentences.
+
+[[Paper]{.btn .btn-primary .btn-sm}](papers/paper1.pdf)
+[[Slides]{.btn .btn-outline-secondary .btn-sm}](slides/paper1-slides.pdf)
+:::
+
+::: {.paper}
+### Another Paper Title
+Solo-authored
+
+Abstract text goes here.
+
+[[Paper]{.btn .btn-primary .btn-sm}](#)
+:::
+
+## Work in Progress
+
+- **Project title** — Brief one-line description.
+- **Another project** (with Coauthor) — Brief description.
+
+## Publications
+
+::: {.paper}
+### Published Paper Title
+with Coauthor Name. *Journal Name*, Vol(Issue), Year.
+
+[[Published Version]{.btn .btn-outline-primary .btn-sm}](#)
+[[Working Paper]{.btn .btn-outline-secondary .btn-sm}](#)
+:::

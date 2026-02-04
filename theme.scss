@@ -1,0 +1,107 @@
+/*-- scss:defaults --*/
+
+// Virginia Tech official colors
+$vt-maroon: #861F41;
+$vt-orange: #E5751F;
+$vt-maroon-dark: #6B1834;
+$vt-white: #FFFFFF;
+$vt-light-bg: #FBF7F4;
+$vt-gray: #3E3D3C;
+$vt-gray-light: #75787B;
+
+// Bootstrap overrides
+$body-bg: $vt-light-bg;
+$body-color: $vt-gray;
+$link-color: $vt-maroon;
+$link-hover-color: $vt-orange;
+$navbar-bg: $vt-maroon;
+$navbar-fg: $vt-white;
+$font-family-sans-serif: "Source Sans Pro", "Segoe UI", sans-serif;
+$headings-font-weight: 700;
+$headings-color: $vt-maroon-dark;
+$border-radius: 0.5rem;
+
+/*-- scss:rules --*/
+
+// Navbar
+.navbar {
+  border-bottom: 3px solid $vt-orange;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: rgba($vt-white, 0.85) !important;
+  transition: color 0.2s;
+
+  &:hover, &.active {
+    color: $vt-orange !important;
+  }
+}
+
+// Headings accent
+h1, h2 {
+  position: relative;
+  padding-bottom: 0.4rem;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: $vt-orange;
+  margin-top: 0.4rem;
+  border-radius: 2px;
+}
+
+// Buttons
+.btn-primary {
+  background-color: $vt-maroon;
+  border-color: $vt-maroon;
+  color: white;
+
+  &:hover {
+    background-color: $vt-maroon-dark;
+    border-color: $vt-maroon-dark;
+  }
+}
+
+.btn-outline-secondary {
+  color: $vt-orange;
+  border-color: $vt-orange;
+
+  &:hover {
+    background-color: $vt-orange;
+    color: white;
+  }
+}
+
+// Cards and paper sections
+.paper {
+  background: white;
+  padding: 1.5rem;
+  border-radius: $border-radius;
+  border-left: 4px solid $vt-orange;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  margin-bottom: 1.5rem;
+}
+
+// Profile photo
+.profile-photo {
+  border: 3px solid $vt-maroon;
+  border-radius: $border-radius;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+// Footer
+.nav-footer {
+  border-top: 3px solid $vt-orange;
+  background-color: $vt-maroon;
+  color: rgba($vt-white, 0.7);
+}
+
+// Selection color
+::selection {
+  background-color: rgba($vt-orange, 0.3);
+}

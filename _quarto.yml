@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:your.email@university.edu
+      - icon: github
+        href: https://github.com/yourusername
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    toc: false
+    mainfont: "Source Sans Pro, Segoe UI, sans-serif"

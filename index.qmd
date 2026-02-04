@@ -1,0 +1,29 @@
+---
+title: "Your Name"
+---
+
+::: {.column-page}
+
+::: {.grid}
+
+::: {.g-col-4}
+![](photo.jpg){.profile-photo}
+:::
+
+::: {.g-col-8}
+
+## About Me
+
+I am a PhD candidate in Economics at [University Name]. My research focuses on [your fields, e.g., labor economics, public finance, applied microeconomics].
+
+**Fields:** [Primary Field], [Secondary Field]
+
+**Email:** [your.email@university.edu](mailto:your.email@university.edu)
+
+[Google Scholar](https://scholar.google.com/) | [GitHub](https://github.com/yourusername)
+
+:::
+
+:::
+
+:::

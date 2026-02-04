@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+[[Download CV (PDF)]{.btn .btn-primary}](cv.pdf)
+
+<iframe class="cv-embed" src="cv.pdf"></iframe>
