@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(quarto:*)",
+      "Bash(export PATH=\"/c/Program Files/RStudio/resources/app/bin/quarto/bin:$PATH\")"
+    ]
+  }
+}

@@ -5,35 +5,40 @@ title: "Research"
 ## Working Papers
 
 ::: {.paper}
-### Paper Title Here
-with Coauthor Name (University)
+### Farmer Willingness to Participate in Voluntary Conservation Programs: Evidence from Eastern North Carolina
+with Greg Howard
 
-Abstract text goes here. Describe the research question, methods, and key findings in a few sentences.
-
-[[Paper]{.btn .btn-primary .btn-sm}](papers/paper1.pdf)
-[[Slides]{.btn .btn-outline-secondary .btn-sm}](slides/paper1-slides.pdf)
 :::
 
 ::: {.paper}
-### Another Paper Title
-Solo-authored
+### Conflict Among Slope Ski Tourers in the Alps: Applications for Machine Learning
+with Klaus Moeltner and Martin Schnitzer
 
-Abstract text goes here.
-
-[[Paper]{.btn .btn-primary .btn-sm}](#)
 :::
 
-## Work in Progress
+::: {.paper}
+### Machine Learning for Migration Modeling
 
-- **Project title** — Brief one-line description.
-- **Another project** (with Coauthor) — Brief description.
+:::
+
+::: {.paper}
+### Warnings from the Web: Using Online Media Data to Anticipate Crop Conditions
+with Mario Ortez, Michael Smith, and Nicole Widmar
+
+:::
 
 ## Publications
 
 ::: {.paper}
-### Published Paper Title
-with Coauthor Name. *Journal Name*, Vol(Issue), Year.
+### Integrating human decision-making into a hydrological model to accurately estimate the impacts of agricultural policies
+with M.R. Tapas, Greg Howard, R. Etheridge, and A. Peralta. *Communications Earth & Environment* 6, 412 (2025).
 
-[[Published Version]{.btn .btn-outline-primary .btn-sm}](#)
-[[Working Paper]{.btn .btn-outline-secondary .btn-sm}](#)
+[[Published Version]{.btn .btn-primary .btn-sm}](https://doi.org/10.1038/s43247-025-02325-x)
+:::
+
+::: {.paper}
+### Framework for Stakeholder-Driven Socio-Hydrological Modeling: Conceptual Foundations for Policy Development and Evaluation to Improve Ecosystem Health
+with M.R. Tapas, R. Etheridge, and Greg Howard. In: Pandey, M., Umamahesh, N., Das, J., Pu, J.H. (eds) *Hydrology and Hydrologic Modelling. HYDRO 2023. Lecture Notes in Civil Engineering*, vol 410. Springer (2025).
+
+[[Published Version]{.btn .btn-primary .btn-sm}](https://doi.org/10.1007/978-981-97-7474-6_42)
 :::

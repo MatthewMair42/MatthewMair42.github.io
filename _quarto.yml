@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Name"
+  title: "Matthew Mair"
   navbar:
     left:
       - href: index.qmd
@@ -14,9 +14,9 @@ website:
         text: CV
     right:
       - icon: envelope
-        href: mailto:your.email@university.edu
+        href: mailto:mairmc@vt.edu
       - icon: github
-        href: https://github.com/yourusername
+        href: https://github.com/MatthewMair42
 
 format:
   html:

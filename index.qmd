@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Matthew Mair"
 ---
 
 ::: {.column-page}
@@ -7,20 +7,20 @@ title: "Your Name"
 ::: {.grid}
 
 ::: {.g-col-4}
-![](photo.jpg){.profile-photo}
+![](pics/Nutshell_Zoomed.png){.profile-photo}
 :::
 
 ::: {.g-col-8}
 
 ## About Me
 
-I am a PhD candidate in Economics at [University Name]. My research focuses on [your fields, e.g., labor economics, public finance, applied microeconomics].
+I am a Ph.D. student in the Department of Agricultural and Applied Economics at Virginia Tech and an Interfaces of Global Change fellow at the Global Change Center. My research sits at the intersection of environmental economics, machine learning, and policy analysis, with a focus on understanding how human decision-making shapes environmental outcomes.
 
-**Fields:** [Primary Field], [Secondary Field]
+**Fields:** Environmental and Energy Economics, Applied Econometrics, Machine Learning
 
-**Email:** [your.email@university.edu](mailto:your.email@university.edu)
+**Email:** [mairmc@vt.edu](mailto:mairmc@vt.edu)
 
-[Google Scholar](https://scholar.google.com/) | [GitHub](https://github.com/yourusername)
+[Google Scholar](https://scholar.google.com/citations?user=G5DCnmYAAAAJ&hl=en) | [GitHub](https://github.com/MatthewMair42)
 
 :::
 
