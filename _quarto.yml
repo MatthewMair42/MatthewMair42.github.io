@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - cv.qmd
 
 website:
   title: "Matthew Mair"
@@ -15,12 +19,17 @@ website:
     right:
       - icon: envelope
         href: mailto:mairmc@vt.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matthew-mair-95823221a/
       - icon: github
         href: https://github.com/MatthewMair42
+  page-footer:
+    center: "© 2026 Matthew Mair"
+    background: "#861F41"
+    foreground: "rgba(255,255,255,0.7)"
 
 format:
   html:
     theme: [cosmo, theme.scss]
     css: styles.css
     toc: false
-    mainfont: "Source Sans Pro, Segoe UI, sans-serif"

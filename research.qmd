@@ -6,39 +6,59 @@ title: "Research"
 
 ::: {.paper}
 ### Farmer Willingness to Participate in Voluntary Conservation Programs: Evidence from Eastern North Carolina
+::: {.coauthors}
 with Greg Howard
-
+:::
+::: {.links}
+[Working Paper]{.badge .badge-wp}
+:::
 :::
 
 ::: {.paper}
 ### Conflict Among Slope Ski Tourers in the Alps: Applications for Machine Learning
+::: {.coauthors}
 with Klaus Moeltner and Martin Schnitzer
-
+:::
+::: {.links}
+[Working Paper]{.badge .badge-wp}
+:::
 :::
 
 ::: {.paper}
 ### Machine Learning for Migration Modeling
-
+::: {.links}
+[Working Paper]{.badge .badge-wp}
+:::
 :::
 
 ::: {.paper}
 ### Warnings from the Web: Using Online Media Data to Anticipate Crop Conditions
+::: {.coauthors}
 with Mario Ortez, Michael Smith, and Nicole Widmar
-
+:::
+::: {.links}
+[Working Paper]{.badge .badge-wp}
+:::
 :::
 
 ## Publications
 
 ::: {.paper}
 ### Integrating human decision-making into a hydrological model to accurately estimate the impacts of agricultural policies
+::: {.coauthors}
 with M.R. Tapas, Greg Howard, R. Etheridge, and A. Peralta. *Communications Earth & Environment* 6, 412 (2025).
-
+:::
+::: {.links}
 [[Published Version]{.btn .btn-primary .btn-sm}](https://doi.org/10.1038/s43247-025-02325-x)
+:::
 :::
 
 ::: {.paper}
 ### Framework for Stakeholder-Driven Socio-Hydrological Modeling: Conceptual Foundations for Policy Development and Evaluation to Improve Ecosystem Health
+::: {.coauthors}
 with M.R. Tapas, R. Etheridge, and Greg Howard. In: Pandey, M., Umamahesh, N., Das, J., Pu, J.H. (eds) *Hydrology and Hydrologic Modelling. HYDRO 2023. Lecture Notes in Civil Engineering*, vol 410. Springer (2025).
-
+:::
+::: {.links}
 [[Published Version]{.btn .btn-primary .btn-sm}](https://doi.org/10.1007/978-981-97-7474-6_42)
+:::
 :::

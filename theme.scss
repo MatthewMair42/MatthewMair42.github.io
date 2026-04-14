@@ -1,3 +1,6 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap');
+
 /*-- scss:defaults --*/
 
 // Virginia Tech official colors
@@ -5,9 +8,9 @@ $vt-maroon: #861F41;
 $vt-orange: #E5751F;
 $vt-maroon-dark: #6B1834;
 $vt-white: #FFFFFF;
-$vt-light-bg: #FBF7F4;
-$vt-gray: #3E3D3C;
-$vt-gray-light: #75787B;
+$vt-light-bg: #F5F3EF;   // warmed from #FBF7F4 — Apero linen feel
+$vt-gray: #666260;        // warmed from #3E3D3C — Apero body text
+$vt-gray-light: #918f8d;  // Apero footer text tone
 
 // Bootstrap overrides
 $body-bg: $vt-light-bg;
@@ -16,8 +19,9 @@ $link-color: $vt-maroon;
 $link-hover-color: $vt-orange;
 $navbar-bg: $vt-maroon;
 $navbar-fg: $vt-white;
-$font-family-sans-serif: "Source Sans Pro", "Segoe UI", sans-serif;
-$headings-font-weight: 700;
+$font-family-sans-serif: "Commissioner", "Segoe UI", sans-serif;
+$headings-font-family: "Fraunces", Georgia, serif;
+$headings-font-weight: 600;
 $headings-color: $vt-maroon-dark;
 $border-radius: 0.5rem;
 

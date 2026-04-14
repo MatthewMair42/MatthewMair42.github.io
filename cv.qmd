@@ -3,5 +3,6 @@ title: "CV"
 ---
 
 [[Download CV (PDF)]{.btn .btn-primary}](cv.pdf)
+[[Open in New Tab]{.btn .btn-outline-secondary}](cv.pdf){target="_blank"}
 
 <iframe class="cv-embed" src="cv.pdf"></iframe>

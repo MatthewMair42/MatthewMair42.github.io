@@ -6,11 +6,11 @@ title: "Matthew Mair"
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-3}
 ![](pics/Nutshell_Zoomed.png){.profile-photo}
 :::
 
-::: {.g-col-8}
+::: {.g-col-9}
 
 ## About Me
 
@@ -20,7 +20,7 @@ I am a Ph.D. student in the Department of Agricultural and Applied Economics at 
 
 **Email:** [mairmc@vt.edu](mailto:mairmc@vt.edu)
 
-[Google Scholar](https://scholar.google.com/citations?user=G5DCnmYAAAAJ&hl=en) | [GitHub](https://github.com/MatthewMair42)
+[Google Scholar](https://scholar.google.com/citations?user=G5DCnmYAAAAJ&hl=en) | [GitHub](https://github.com/MatthewMair42) | [LinkedIn](https://www.linkedin.com/in/matthew-mair-95823221a/) | [ORCID](https://orcid.org/0009-0004-9572-1894)
 
 :::
 
