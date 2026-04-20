@@ -9,8 +9,11 @@ title: "Research"
 ::: {.coauthors}
 with Greg Howard
 :::
+
+Uses discrete choice analysis to identify the economic and behavioral factors that drive farmer participation in voluntary conservation programs in Eastern North Carolina.
+
 ::: {.links}
-[Working Paper]{.badge .badge-wp}
+[Preparing for Submission]{.badge .badge-wp}
 :::
 :::
 
@@ -19,15 +22,21 @@ with Greg Howard
 ::: {.coauthors}
 with Klaus Moeltner and Martin Schnitzer
 :::
+
+Applies machine learning methods to study conflict between ski tourers on shared Alpine slopes, with implications for recreation management and policy.
+
 ::: {.links}
-[Working Paper]{.badge .badge-wp}
+[In Progress]{.badge .badge-wp}
 :::
 :::
 
 ::: {.paper}
-### Machine Learning for Migration Modeling
+### Environmental Stress and Labor-Market Constraints on International Migration
+
+Examines how environmental stress interacts with labor-market conditions at origin to shape international migration flows, using bilateral panel data across 138 countries.
+
 ::: {.links}
-[Working Paper]{.badge .badge-wp}
+[In Progress]{.badge .badge-wp}
 :::
 :::
 
@@ -36,8 +45,24 @@ with Klaus Moeltner and Martin Schnitzer
 ::: {.coauthors}
 with Mario Ortez, Michael Smith, and Nicole Widmar
 :::
+
+Uses natural language processing of online media to construct early-warning indicators of adverse crop conditions.
+
 ::: {.links}
-[Working Paper]{.badge .badge-wp}
+[Under Review]{.badge .badge-wp}
+:::
+:::
+
+::: {.paper}
+### A Replicable Framework for Ex-Ante Property Value Impact Assessment of Proposed Utility-Scale Solar Facilities
+::: {.coauthors}
+with Zhenshan Chen
+:::
+
+Develops a replicable framework for projecting property value impacts of proposed utility-scale solar facilities before construction, combining matched comparable sites, difference-in-differences estimation, and welfare translation.
+
+::: {.links}
+[Preparing for Submission]{.badge .badge-wp}
 :::
 :::
 

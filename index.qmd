@@ -6,11 +6,9 @@ title: "Matthew Mair"
 
 ::: {.grid}
 
-::: {.g-col-3}
-![](pics/Nutshell_Zoomed.png){.profile-photo}
-:::
+::: {.g-col-8}
 
-::: {.g-col-9}
+# Matthew Mair
 
 ## About Me
 
@@ -22,6 +20,21 @@ I am a Ph.D. student in the Department of Agricultural and Applied Economics at 
 
 [Google Scholar](https://scholar.google.com/citations?user=G5DCnmYAAAAJ&hl=en) | [GitHub](https://github.com/MatthewMair42) | [LinkedIn](https://www.linkedin.com/in/matthew-mair-95823221a/) | [ORCID](https://orcid.org/0009-0004-9572-1894)
 
+## Education
+
+**Ph.D., Agricultural and Applied Economics** — Virginia Tech, 2024–Present
+
+- Interfaces of Global Change Fellow, Global Change Center
+
+**B.A., Economics (Environmental Economics and Policy); B.S., Political Science (International and Comparative Politics)** — Appalachian State University, 2020–2024
+
+- University Honors College
+- Chancellor's Scholarship (full-ride merit scholarship)
+
+:::
+
+::: {.g-col-4}
+![](pics/Nutshell_Zoomed.png){.profile-photo}
 :::
 
 :::

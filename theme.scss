@@ -1,5 +1,5 @@
 // Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400;500;600;700&display=swap');
 
 /*-- scss:defaults --*/
 
@@ -20,12 +20,26 @@ $link-hover-color: $vt-orange;
 $navbar-bg: $vt-maroon;
 $navbar-fg: $vt-white;
 $font-family-sans-serif: "Commissioner", "Segoe UI", sans-serif;
-$headings-font-family: "Fraunces", Georgia, serif;
+$headings-font-family: "Commissioner", "Segoe UI", sans-serif;
 $headings-font-weight: 600;
 $headings-color: $vt-maroon-dark;
 $border-radius: 0.5rem;
+$font-size-base: 1.05rem;
 
 /*-- scss:rules --*/
+
+// Hide the auto-rendered YAML title block
+.quarto-title-block {
+  display: none;
+}
+
+// Name heading inside content column
+.g-col-8 h1 {
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
 
 // Navbar
 .navbar {
@@ -96,6 +110,9 @@ h2::after {
   border: 3px solid $vt-maroon;
   border-radius: $border-radius;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: block;
+  margin-top: 3.5rem;
+  transform: translateX(1.5rem);
 }
 
 // Footer
