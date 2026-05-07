@@ -8,9 +8,11 @@ project:
     - media.qmd
   resources:
     - cv.pdf
+    - favicon.svg
 
 website:
   title: "Matthew Mair"
+  favicon: favicon.svg
   navbar:
     left:
       - href: index.qmd
