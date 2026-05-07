@@ -7,6 +7,7 @@ body {
 /* Home page profile section */
 .profile-photo {
   width: 440px;
+  max-width: 100%;
   margin-bottom: 1rem;
   transition: transform 0.2s;
 }

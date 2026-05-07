@@ -6,6 +6,8 @@ project:
     - research.qmd
     - cv.qmd
     - media.qmd
+  resources:
+    - cv.pdf
 
 website:
   title: "Matthew Mair"

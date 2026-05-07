@@ -13,7 +13,7 @@ with Greg Howard
 Uses discrete choice analysis to identify the economic and behavioral factors that drive farmer participation in voluntary conservation programs in Eastern North Carolina.
 
 ::: {.links}
-[Preparing for Submission]{.badge .badge-wp}
+[In Preparation]{.badge .badge-wp}
 :::
 :::
 
@@ -26,7 +26,7 @@ with Klaus Moeltner and Martin Schnitzer
 Applies machine learning methods to study conflict between ski tourers on shared Alpine slopes, with implications for recreation management and policy.
 
 ::: {.links}
-[In Progress]{.badge .badge-wp}
+[In Preparation]{.badge .badge-wp}
 :::
 :::
 
@@ -36,7 +36,7 @@ Applies machine learning methods to study conflict between ski tourers on shared
 Examines how environmental stress interacts with labor-market conditions at origin to shape international migration flows, using bilateral panel data across 138 countries.
 
 ::: {.links}
-[In Progress]{.badge .badge-wp}
+[In Preparation]{.badge .badge-wp}
 :::
 :::
 
@@ -62,7 +62,7 @@ with Zhenshan Chen
 Develops a replicable framework for projecting property value impacts of proposed utility-scale solar facilities before construction, combining matched comparable sites, difference-in-differences estimation, and welfare translation.
 
 ::: {.links}
-[Preparing for Submission]{.badge .badge-wp}
+[In Preparation]{.badge .badge-wp}
 :::
 :::
 

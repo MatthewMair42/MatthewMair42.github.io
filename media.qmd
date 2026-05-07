@@ -27,7 +27,7 @@ Selected coverage of my research and activities in university news outlets, podc
 :::
 
 ::: {.media-item}
-[**"The Honors College Hosts First Ever Honors Club Expo"**](https://honors.appstate.edu/news/honors-college-hosts-first-ever-honors-club-expo)
+**"The Honors College Hosts First Ever Honors Club Expo"**
 [Honors Wednesday Memo, Appalachian State University · December 2023]{.outlet}
 :::
 
@@ -47,12 +47,12 @@ Selected coverage of my research and activities in university news outlets, podc
 :::
 
 ::: {.media-item}
-[**"Honors College student and Chancellor's Scholar accepted into the C2C REU Program"**](https://honors.appstate.edu/news/honors-college-student-and-chancellor%E2%80%99s-scholar-accepted-resilience-and-adaptation-coastal)
+**"Honors College student and Chancellor's Scholar accepted into the C2C REU Program"**
 [Honors Wednesday Memo, Appalachian State University · April 2023]{.outlet}
 :::
 
 ::: {.media-item}
-[**"Honors College students present at the SHRC Annual Conference 2023"**](https://honors.appstate.edu/news/honors-college-students-present-srhc-annual-conference-2023)
+**"Honors College students present at the SHRC Annual Conference 2023"**
 [Honors Wednesday Memo, Appalachian State University · April 2023]{.outlet}
 :::
 
@@ -67,7 +67,7 @@ Selected coverage of my research and activities in university news outlets, podc
 :::
 
 ::: {.media-item}
-[**"Honors College students travel to Egypt to attend the 27th annual Conference of Parties on climate change"**](https://honors.appstate.edu/news/honors-college-students-travel-egypt-attend-27th-annual-conference-parties-climate-change)
+**"Honors College students travel to Egypt to attend the 27th annual Conference of Parties on climate change"**
 [Honors Wednesday Memo, Appalachian State University · November 2022]{.outlet}
 :::
 
