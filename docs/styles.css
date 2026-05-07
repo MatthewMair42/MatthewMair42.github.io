@@ -61,6 +61,38 @@ body {
   border: 1px solid #c4beb9;
 }
 
+/* Media page */
+.media-list {
+  max-width: 750px;
+}
+
+.media-item {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e8e4df;
+}
+
+.media-item:last-child {
+  border-bottom: none;
+}
+
+.media-item p {
+  margin: 0;
+}
+
+.media-item .outlet {
+  display: block;
+  font-size: 0.9rem;
+  color: #78716C;
+  margin-top: 0.15rem;
+}
+
+.badge-media {
+  background-color: #f0ede8;
+  color: #666260;
+  border: 1px solid #c4beb9;
+  font-size: 0.7rem;
+}
+
 /* Smooth transitions */
 a {
   transition: color 0.2s ease;
