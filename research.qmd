@@ -67,6 +67,19 @@ Develops a replicable framework for projecting property value impacts of propose
 :::
 
 ::: {.paper}
+### Recovering Direct Price Effects of Environmental Amenities in Housing Markets: Regression and Causal Machine Learning Model Assessment with Empirical Monte Carlo Simulation
+::: {.coauthors}
+with Zhenshan Chen and Klaus Moeltner
+:::
+
+Uses an empirical Monte Carlo simulation on over one million upstate New York property transactions to evaluate regression and causal machine learning methods for recovering unconfounded price effects of environmental amenities in hedonic models.
+
+::: {.links}
+[Under Review]{.badge .badge-wp}
+:::
+:::
+
+::: {.paper}
 ### Grid Tariffs and Household Electricity Use
 ::: {.coauthors}
 with Benjamin Kirchler, Andrea Kollmann, and Johannes Reichl
