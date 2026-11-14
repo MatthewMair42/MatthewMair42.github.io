@@ -5,19 +5,6 @@ title: "Research"
 ## Working Papers
 
 ::: {.paper}
-### Farmer Willingness to Participate in Voluntary Conservation Programs: Evidence from Eastern North Carolina
-::: {.coauthors}
-with Greg Howard
-:::
-
-Uses discrete choice analysis to identify the economic and behavioral factors that drive farmer participation in voluntary conservation programs in Eastern North Carolina.
-
-::: {.links}
-[Under Review]{.badge .badge-wp}
-:::
-:::
-
-::: {.paper}
 ### Conflict Among Slope Ski Tourers in the Alps: Applications for Machine Learning
 ::: {.coauthors}
 with Klaus Moeltner and Martin Schnitzer
@@ -93,6 +80,20 @@ Analyzes how a novel peak-based grid tariff affects household electricity consum
 :::
 
 ## Publications
+
+::: {.paper}
+### Farmer Participation in Payment for Ecosystem Services Programs: Evidence From Eastern North Carolina
+::: {.coauthors}
+with Greg Howard. *Journal of the Agricultural and Applied Economics Association*, 1–16 (2026).
+:::
+
+Uses a discrete choice experiment to estimate farmer willingness to accept voluntary Payment for Ecosystem Services contracts in North Carolina's Tar-Pamlico watershed.
+
+::: {.links}
+[[Published Version]{.btn .btn-primary .btn-sm}](https://doi.org/10.1002/jaa2.70056)
+[Open Access]{.badge .badge-wp}
+:::
+:::
 
 ::: {.paper}
 ### Integrating human decision-making into a hydrological model to accurately estimate the impacts of agricultural policies
