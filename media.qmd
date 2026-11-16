@@ -7,6 +7,11 @@ Selected coverage of my research and activities in university news outlets, podc
 ::: {.media-list}
 
 ::: {.media-item}
+[**"A Summer in Austria: Matthew's Internship at the Energieinstitut"**](https://aaec.vt.edu/news/articles/mair-2026.html)
+[Department of Agricultural and Applied Economics, Virginia Tech · August 2026]{.outlet}
+:::
+
+::: {.media-item}
 [**"Matthew Mair: Fighting climate change, economically"**](https://communicatingscience.isce.vt.edu/research-stories/Matthew_Mair.html)
 [Virginia Tech Center for Communicating Science · January 2026]{.outlet}
 :::
